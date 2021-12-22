@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there 👋 I am Mansoor Musleh
+- 🖥️	 I'm a full stack java developer at Revature
+- ✍️ I enjoy numerical modeling and analysis
+- 🌱 I'm looking forward to starting my own business to revolutionalize wearable technologies
+- 👉 I enjoy learning new things 
+- ⚽ I enjoy playing sports especially soccer
 <!--
 **mannyRV/mannyRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
