@@ -5,9 +5,6 @@
 - 👉 I enjoy learning new things 
 - ⚽ I enjoy playing sports especially soccer
 
-
-https://img.shields.io/static/v1?label=Favorite%20Programming%20langauge&message=Javascript&color=red https://img.shields.io/static/v1?label=Skills%20in%&message=Java,%20Python&color=blue https://img.shields.io/static/v1?label=I%20am%20using%&message=Visual%20Studio%20Code&color=yellow
-
 <!-- https://img.shields.io/static/v1?label=Favorite%20Programming%20langauge&message=Java&color=green https://img.shields.io/static/v1?label=Skills%20in%&message=Javascript,%20HTML,%20CSS&color=red https://img.shields.io/static/v1?label=I%20am%20using%&message=IntelliJ%20IDEA&color=blue https://img.shields.io/static/v1?label=I%20am%20using%&message=Visual%20Studio%20Code&color=yellow -->
 
 <!--
